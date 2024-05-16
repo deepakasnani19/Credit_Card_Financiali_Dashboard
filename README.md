@@ -1,4 +1,4 @@
-# Credit_Card_Financiali_Dashboard
+# Credit_Card_Financiali_Dashboard using Power Bi and SQL
  "Power BI Credit Card Dashboard: SQL integrated, DAX-powered insights, advanced visualizations for financial analysis. Explore, contribute, gain insights!"
 **Overview:**
 "The Credit Card Financial Dashboard, created using Power BI, leverages DAX for relevant insights and SQL for seamless data integration. It emphasizes data visualization, analysis, and dashboard development as a learning tool."
